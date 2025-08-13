@@ -26,3 +26,6 @@ cd prodigy-infotech-cybersecurity
 python passwordComplexityChecker.py
 ```
 
+<img width="625" height="473" alt="image" src="https://github.com/user-attachments/assets/e23149e6-a513-4372-9540-663ecc42afc6" />
+
+<img width="624" height="472" alt="image" src="https://github.com/user-attachments/assets/53e244e9-856b-4c8f-9978-bf3d2e3abb6f" />
