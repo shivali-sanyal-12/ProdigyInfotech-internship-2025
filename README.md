@@ -15,7 +15,7 @@ This repository contains the tasks I completed during my **Cybersecurity Interns
 4. **Password Complexity Checker** – Evaluates the strength of a password based on security rules.  
 5. **Keylogger** – Records keystrokes for monitoring and analysis purposes.  
 
-## ⚙️ How to Run (All-in-One Command)
+## ⚙️ How to Run 
 If you want to install everything and run a specific task in **one go**, use:
 ```bash
 git clone https://github.com/your-username/prodigy-infotech-cybersecurity.git 
