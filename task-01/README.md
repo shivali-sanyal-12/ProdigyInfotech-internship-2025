@@ -14,7 +14,6 @@ It implements the **Caesar Cipher** — one of the simplest and oldest encryptio
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/your-username/prodigy-infotech-cybersecurity.git
-cd prodigy-infotech-cybersecurity
 ```
 
 ## 2. Run the Script
