@@ -24,11 +24,8 @@ git clone https://github.com/your-username/prodigy-infotech-cybersecurity.git
 Python 3.x
 
 Required libraries:
-
 scapy (for network packet analyzer)
-
 pillow (for image pixel manipulation)
-
 pynput (for keylogger)
 
 Install them manually if needed:
