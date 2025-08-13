@@ -31,7 +31,7 @@ Install them manually if needed:
 ```bash
 pip install scapy pillow pynput
 ```
-Notes
+## Notes
 All tasks are for educational and ethical purposes only.
 The keylogger and packet analyzer should be tested only in authorized environments.
 
