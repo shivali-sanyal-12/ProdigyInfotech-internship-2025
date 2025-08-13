@@ -15,13 +15,6 @@ This repository contains the tasks I completed during my **Cybersecurity Interns
 4. **Password Complexity Checker** – Evaluates the strength of a password based on security rules.  
 5. **Keylogger** – Records keystrokes for monitoring and analysis purposes.  
 
-## 📂 Repository Structure
-├── Task-1_CaesarCipher.py
-├── Task-2_NetworkPacketAnalyzer.py
-├── Task-3_PixelManipulationImageEncryption.py
-├── Task-4_PasswordComplexityChecker.py
-├── Task-5_Keylogger.py
-└── README.md
 ## ⚙️ How to Run (All-in-One Command)
 If you want to install everything and run a specific task in **one go**, use:
 ```bash
